@@ -29,6 +29,10 @@
 	animation: jumpMove 0.3s linear;
 }
 
+.rerun {
+	left: 580px;
+}
+
 
 @keyframes jumpMove {
 	0% {
